@@ -55,9 +55,8 @@ $(function(){
     loop:true,
     autoplay:true,
     autoplayTimeout:9000,
-    smartSpeed:1500,
     autoplayHoverPuse:true,
-    navigation : true,
+    // navigation : true,
     dots:true
   });
   
